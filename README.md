@@ -4,8 +4,9 @@
 <h2>Como usar:</h2>
 <ul>
 <li>Instalar o Pip;</li>
-  <li>Instalar Pynput:</li>
+  <ol>Instalar Pynput:
   <code>pip install pynput</code>
+  </ol>
 <li>Abrir código e mudar na linha 12 o '10' para o número de caracteres que sera gravado nos arquivos;</li>
 <li>Testar o programa</li>
 </ul>
